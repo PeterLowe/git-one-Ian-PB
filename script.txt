@@ -11,9 +11,14 @@ This command will show you what is on the stage and what is not. It will tell yo
 
 git add
 git add .   – this command will add every file in the repository to the stage. Instead of . you can type in the file name after the dot to specify which one you want to add.
-
+This shows the files that were added using git status:
 
  
 
+
+git commit
+git commit is used to put all the files in the staging area into a node. This node should have a note which is done by adding -m “note” after the git commit command.
+
+ 
 
 
