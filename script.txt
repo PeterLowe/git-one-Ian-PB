@@ -31,3 +31,10 @@ git remote
 git remote – list repositories on remote server.
 git remote add <name> <url> - creates a new remote repository.
  
+
+Git branch
+Git branch newBranchName : Creates a new branch in the local 
+repository.
+git branch –a / -l / -r : Lists branches in repositor
+
+ 
