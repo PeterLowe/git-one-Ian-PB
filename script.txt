@@ -23,7 +23,11 @@ git commit is used to put all the files in the staging area into a node. This no
 
 
 git push
-git push puts nodes done by commit into the online repository. The command is: git push -u origin master   – master is the name of our default branch which is the one we want to push.
+git push puts nodes done by commit into the online repository. The command is: git push -u origin master – master is the name of our default branch which is the one we want to push.
 
  
 
+git remote
+git remote – list repositories on remote server.
+git remote add <name> <url> - creates a new remote repository.
+ 
