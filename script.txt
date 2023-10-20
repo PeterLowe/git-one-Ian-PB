@@ -36,5 +36,10 @@ Git branch
 Git branch newBranchName : Creates a new branch in the local 
 repository.
 git branch –a / -l / -r : Lists branches in repositor
-
  
+
+git checkout
+ Command: git checkout branch_name
+Makes this node the current Head
+It won't work if there are modified files.
+Use –f to discard non committed files 
