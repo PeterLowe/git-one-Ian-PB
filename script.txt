@@ -2,4 +2,18 @@ Git Guide
 Ian Perez Bunuel
 
 git init
-git init is used to create an empty repository in the file where you have started Git bash.
+git init is used to create an empty repository in the folder where you have started Git bash.
+ 
+
+git status
+This command will show you what is on the stage and what is not. It will tell you if it was modified, deleted, ext. 
+ 
+
+git add
+git add .   – this command will add every file in the repository to the stage. Instead of . you can type in the file name after the dot to specify which one you want to add.
+
+
+ 
+
+
+
