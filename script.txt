@@ -62,4 +62,9 @@ git log --graph – Branch paths drawn
 Git log --graph –oneline – Draws path condensed output
 Git log --n – Only last n commits.
 
+git pull
+git pull <remote> - Perform a fetch and merge
+git pull –rebase – Perform a fetch and merge the remote origin into 
+my local master
+
 
