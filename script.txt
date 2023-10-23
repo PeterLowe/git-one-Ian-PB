@@ -67,4 +67,14 @@ git pull <remote> - Perform a fetch and merge
 git pull –rebase – Perform a fetch and merge the remote origin into 
 my local master
 
+Git stash
+• git stash – creates a local only copy of the current working directory
+• git stash list – list previous stashes
+• git pop – retrieve the stash{0} and copies the file to working directory
+• git apply stash{1} retrieve stash{1} and copy into the current directory
+ 
+
+Git rm
+
+
 
