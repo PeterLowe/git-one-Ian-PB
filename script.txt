@@ -54,18 +54,21 @@ git merge branch_name - This will merge the named branch with the current branch
 
 
 git log
-git log – shows the entire commit history 
-<space> shows the next page
-<q> quit
-git log --stat – Files altered, and line changed
-git log --graph – Branch paths drawn
-Git log --graph –oneline – Draws path condensed output
-Git log --n – Only last n commits.
+• git log – shows the entire commit history 
+• <space> shows the next page
+• <q> quit
+• git log --stat – Files altered, and line changed
+• git log --graph – Branch paths drawn
+• Git log --graph –oneline – Draws path condensed output
+• Git log --n – Only last n commits.
+
 
 git pull
-git pull <remote> - Perform a fetch and merge
-git pull –rebase – Perform a fetch and merge the remote origin into 
+• git pull <remote> - Perform a fetch and merge
+• git pull –rebase – Perform a fetch and merge the remote origin into 
 my local master
+
+
 
 Git stash
 • git stash – creates a local only copy of the current working directory
@@ -75,6 +78,8 @@ Git stash
  
 
 Git rm
+Git rm filename  - Remove file from tracking
+-- cached (staging area only)
+-f (forcefully remove)
 
-
-
+ 
