@@ -47,3 +47,19 @@ Use –f to discard non committed files.
 
 git merge
 git merge branch_name - This will merge the named branch with the current branch.  
+(this is an example of trying to merge when they are the same)
+ 
+
+
+
+
+git log
+git log – shows the entire commit history 
+<space> shows the next page
+<q> quit
+git log --stat – Files altered, and line changed
+git log --graph – Branch paths drawn
+Git log --graph –oneline – Draws path condensed output
+Git log --n – Only last n commits.
+
+
